@@ -4,6 +4,6 @@
 [![youssefachehboune GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefachehboune&show_icons=true&theme=radical)](https://github.com/youssefachehboune)
 
 
-[![youssefachehboune Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefachehboune&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/youssefachehboune)
+[![youssefachehboune Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefachehboune&show_icons=true&theme=radical)](https://github.com/youssefachehboune)
 
-
+![Profile views](https://gpvc.arturio.dev/youssefachehboune)
