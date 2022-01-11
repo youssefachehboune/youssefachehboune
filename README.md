@@ -6,4 +6,3 @@
 
 [![youssefachehboune Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefachehboune&show_icons=true&theme=radical)](https://github.com/youssefachehboune)
 
-![Profile views](https://gpvc.arturio.dev/youssefachehboune)
