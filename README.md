@@ -1,5 +1,5 @@
 
-[![yachehbo's 42 stats](https://badge.mediaplus.ma/starryblue/yachehbo)](https://github.com/oakoudad/badge42)
+[![yachehbo's 42 stats](https://badge.mediaplus.ma/starryblue/yachehbo)](profile.intra.42.fr/users/yachehbo)
 
 [![youssefachehboune GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefachehboune&show_icons=true&theme=radical)](https://github.com/youssefachehboune)
 
